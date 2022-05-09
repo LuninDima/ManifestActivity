@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LifeCycleActivity</string>
+    <string name="textView_text">Нажмите на кнопку для перехода на второй экран</string>
+    <string name="button_alert_dialog_text">Открыть Alert Dialog</string>
+<array name="multiChoice">
+    <item>Белый</item>
+    <item>Черный</item>
+    <item>Зеленый</item>
+    <item>Красный</item>
+    <item>Синий</item>
+</array>
+</resources>
